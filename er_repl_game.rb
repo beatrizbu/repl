@@ -1,4 +1,5 @@
 
+#This is my comment for collaboration purposes
 
 print "A person walks into an ER of the City Hospital and there is no one at the reception just a machine running:
 All our personnel is busy at the moment. To check in with our Diagnose System, CLICK any key for assistance."
